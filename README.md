@@ -1,2 +1,3 @@
-# city-weather
-Display any city weather with python 
+# Find the weather of a city 
+
+this code will ask you for the name of your city and give you weather information such as temperature, humidity... 
